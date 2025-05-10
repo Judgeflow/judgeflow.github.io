@@ -13,7 +13,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://judgeflow.com/'
+      url: 'https://judgeflow.dev/'
     },
   ],
 };
